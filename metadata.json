@@ -1,0 +1,6 @@
+{
+  "name": "KINETIX | Neon Techwear Sneakers",
+  "description": "An edgy, high-performance sneaker store engineered with black, white, and neon green aesthetics, new arrivals, interactive size selectors, and dynamic hover reveals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
